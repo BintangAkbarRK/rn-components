@@ -1,0 +1,48 @@
+{
+  "expo": {
+    "name": "rnComponents",
+    "slug": "rnComponents",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "extra": {
+      "expo": {
+        "assetPlugins": ["expo-asset/tools/hashAssetFiles", "expo-svg"]
+      },
+      "fontAssets": [
+        "./assets/fonts/Montserrat-Bold.ttf",
+        "./assets/fonts/Montserrat-ExtraBold.ttf",
+        "./assets/fonts/Montserrat-Medium.ttf",
+        "./assets/fonts/Montserrat-Regular.ttf",
+        "./assets/fonts/Montserrat-SemiBold.ttf"
+      ]
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.bintangakbarRK.rnComponents"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "packagerOpts": {
+      "config": "./metro.config.js",
+      "sourceExts": ["js", "jsx", "ts", "tsx", "svg"]
+    }
+  }
+}
