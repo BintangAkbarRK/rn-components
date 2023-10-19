@@ -49,6 +49,7 @@ xcuserdata
 # Eclipse
 .project
 .settings
+.npmrc
 
 # VSCode
 .history/
