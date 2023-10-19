@@ -1,8 +1,11 @@
 {
   "name": "@bintangakbarRK/rn-components",
-  "repository": "https://github.com/bintangakbarRK/rn-components",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bintangakbarRK/rn-components.git"
+  },
   "homepage": "https://github.com/bintangakbarRK/rn-components#readme",
-  "author": "bintangakbar22",
+  "author": "bintangakbarRK",
   "license": "MIT",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
@@ -73,5 +76,12 @@
     "github": {
       "release": false
     }
-  }
+  },
+  "description": "react-native components",
+  "bugs": {
+    "url": "https://github.com/bintangakbarRK/rn-components/issues"
+  },
+  "keywords": [
+    "1.0.0"
+  ]
 }
