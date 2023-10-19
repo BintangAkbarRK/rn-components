@@ -1,11 +1,11 @@
 {
-  "name": "@bintangakbarRK/rn-components",
+  "name": "@BintangakbarRK/rn-components",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bintangakbarRK/rn-components.git"
+    "url": "git+https://github.com/BintangakbarRK/rn-components.git"
   },
-  "homepage": "https://github.com/bintangakbarRK/rn-components#readme",
-  "author": "bintangakbarRK",
+  "homepage": "https://github.com/BintangakbarRK/rn-components#readme",
+  "author": "BintangakbarRK",
   "license": "MIT",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",

@@ -35,7 +35,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.bintangakbarRK.rnComponents"
+      "package": "com.BintangakbarRK.rnComponents"
     },
     "web": {
       "favicon": "./assets/favicon.png"
